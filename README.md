@@ -1,0 +1,1 @@
+# Django_richy_store
